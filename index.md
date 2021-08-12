@@ -1,93 +1,65 @@
-### Hey 👋, I'm Jack yu.
+### Hey 👋👋, I'm LiangCang.
 
-<a href="https://medium.com/">
-  <img align="left" alt="Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/medium.svg" />
-</a>
-<a href="https://www.zhihu.com/people/zhen-liang-liao-62">
-  <img align="left" alt="Zhihu" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/zhihu.svg" />
-</a>
-<a href="https://leetcode-cn.com/u/Jack_yu-1999/">
-  <img align="left" alt="Leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />
-</a>
-<a href="https://github.com/yzp-99/">
-  <img align="left" alt="Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
-</a>
-<a href="https://t.me/joinchat/AAAAAFhPQ4We6zukAHmHrQ">
-  <img align="left" alt="Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/telegram.svg" />
-</a>
-<a href="https://mail.google.com/ ">
-  <img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/gmail.svg" />
-</a>
+---
+# Base Info
+- 👨‍🏛Name: Cang Liang
+- 💻Experience: Six
+- 📫 Please contact me via email:605309360@qq.com
+- <i class="fa fa-weixin fa-1x"></i>: 15310925516
+## H
+### H
+- 
 
-<br />
-<br />
 
-- I am a nerd with **poor programming skills (A waste 🌍).** 
-- I like to use a variety of useful **computer software** and build  **beautiful blog.**
-- I also like **literature, reading and writing.** 
-- I used to dream of being a writer.But **the reality made me have to learn a technology💻,**
-- and I also came into contact with **programming**.
-- Although I was **not interested** in it at the beginning,
-- **luckily I slowly fell in love with it. ❤️**
-
-<img align="right" alt="jpg" width="250px" src="https://cdn.jsdelivr.net/gh/Jackyu-1999/CDN-Static@main/熊猫.jpg" />
 
 **Talking about Personal Stuffs:**
 
 - 👨‍🏛 I'm currently a student at **trash university**.
 - 💻 Major is big data technology and application.
-- 🌱 I'm currently learning **Web development and English**. 
-- 🤔 My hobbies are **playing chess and running**.
-- 💼 I am an **obsessive-compulsive disorder**.
 - 💬 If you have any questions, **just ask me**.
-- 📫 Please contact me via email:
-- QQ email: 1374051310@qq.com. 
-- Or Gmail:yzplove99@gmail.com.
 
-<img align="right"  src="https://github-readme-stats.vercel.app/api?username=Jackyu-1999&count_private=true&show_icons=true" alt="Jackyu" />
+
+
+<img align="right"  src="https://github-readme-stats.vercel.app/api?username=DXG-Tmy&count_private=true&show_icons=true" alt="Jackyu" />
 
 **Languages and Tools:**  
 
-<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/python.svg"></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/html5.svg"></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/css3.svg"></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/javascript.svg"></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/sublimetext.svg"></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/pycharm.svg"></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/git.svg"></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/mysql.svg"></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/vmware.svg"></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/hexo.svg"></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/wordpress.svg"></code>
+
 
 **Technology being learned**
 
-<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/linux.svg"></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/vim.svg"></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/django.svg"></code>
-<code><img height="20" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg"></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/jquery.svg"></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/typescript.svg"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg"></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/react.svg"></code>
 
 **Favorite sites**
 
-<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/github.svg"></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/google.svg"></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/stackoverflow.svg"></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/youtube.svg"></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/steam.svg"></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/freecodecamp.svg"></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/w3c.svg"></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/stackoverflow.svg"></code>
 
+<table align="top"><tr>
+<td valign="top" width="33%">
 
-📊 **My recent programming status:**
-<!--START_SECTION:waka-->
-```text
-No Activity tracked this Week
-```
-<!--END_SECTION:waka-->
+### Open Project  
+- [DXG-ShareMemrory]<br />
+  [@Gitee](https://gitee.com/dxg_Project/dxg-share-memrory)
+- [Funpack-Tmy]<br />
+  [@Gitee](https://gitee.com/dxg_Project/Funpack-Tmy)
+   
+[@get more at gitee](https://gitee.com/dxg_Project)
+<br />
+[@get more at github](https://github.com/Dxg-Tmy)
+</td>
+  
+<td valign="top" width="33%">
+  
+### My Blogs
+- [@Dxg-C++     Articles](https://blog.csdn.net/DxgTeam/article/details/109520145)
+- [@Dxg-C#      Articles](https://blog.csdn.net/DxgTeam/article/details/109520104)
+- [@Dxg-bat     Articles](https://blog.csdn.net/DxgTeam/article/details/109520165)
+-----
+- [@Dxg-AD      Articles](https://blog.csdn.net/DxgTeam/article/details/119108664)
+- [@Dxg-Keil    Articles](https://blog.csdn.net/DxgTeam/article/details/109520187)
+- [@Dxg-Arduino Articles](https://blog.csdn.net/DxgTeam/article/details/116134846)
 
+[@get more](https://blog.csdn.net/DxgTeam)
+</td>
+</tr></table>
+
+---
 **If you like this readme file, please give me star! ❤️**
